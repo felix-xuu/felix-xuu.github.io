@@ -305,12 +305,12 @@ a:active {
 }
 
 .hero-area .counter {
-  background: rgba(255, 255, 255, 0.2);
+  /*background: rgba(255, 255, 255, 0.2);*/
   padding: 18px;
 }
 
 .hero-area .counter ul li {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.1);
   color: #fff;
   display: inline-block;
   line-height: 25px;
