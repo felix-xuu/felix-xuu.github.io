@@ -3,26 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://felix-xuu.github.io/mental/</loc>
+    <loc>http://mess.ml/mental/</loc>
   </url>
   
   <url>
-    <loc>https://felix-xuu.github.io/categories/</loc>
+    <loc>http://mess.ml/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://felix-xuu.github.io/</loc>
+    <loc>http://mess.ml/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://felix-xuu.github.io/tags/</loc>
+    <loc>http://mess.ml/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://felix-xuu.github.io/mental/aberration/</loc>
+    <loc>http://mess.ml/mental/amnesia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/agoraphobia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/acute-stress-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/affective-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/acrophobia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/anxiety-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/aberration/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/adjustment-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/alcohol-and-substance-dependence/</loc>
+  </url>
+  
+  <url>
+    <loc>http://mess.ml/mental/alcoholism-and-substance-abuse/</loc>
   </url>
   
 </urlset>
