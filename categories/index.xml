@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mess</title>
-    <link>http://mess.ml/categories/</link>
+    <link>http://messs.ml/categories/</link>
     <description>Recent content in Categories on Mess</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="http://mess.ml/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://messs.ml/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
