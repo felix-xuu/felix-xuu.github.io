@@ -8,17 +8,130 @@
   
   <url>
     <loc>http://messes.ml/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://messes.ml/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://messes.ml/tags/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/general-adaptation-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/bereavement/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/folie-deux/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/postpartum-depression/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/huntingtons-disease/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/factitious-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/depersonalization-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/munchausen-by-proxy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/body-dysmorphic-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dependent-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/orthorexia-nervosa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/kleinelevin-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dissociative-identity-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dissociative-amnesia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/separation-anxiety-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/schizotypal-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/schizoaffective-disorders/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/posttraumatic-stress-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/male-erectile-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/antisocial-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/narcolepsy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/stuttering/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/conduct-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/down-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/parasomnia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/avoidant-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/tourette-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/angelman-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/derealization/</loc>
   </url>
   
   <url>
@@ -26,15 +139,115 @@
   </url>
   
   <url>
+    <loc>http://messes.ml/mental/insomnia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dyslexia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/female-sexual-dysfunction/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/paranoid-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/delusional-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/munchausens-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/seasonal-affective-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/learning-disorders/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/oppositional-defiant-disorder/</loc>
+  </url>
+  
+  <url>
     <loc>http://messes.ml/mental/agoraphobia/</loc>
   </url>
   
   <url>
-    <loc>http://messes.ml/mental/acute-stress-disorder/</loc>
+    <loc>http://messes.ml/mental/pervasive-developmental-disorder/</loc>
   </url>
   
   <url>
-    <loc>http://messes.ml/mental/affective-disorder/</loc>
+    <loc>http://messes.ml/mental/generalized-anxiety-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/pica/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/obsessive-compulsive-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/obsessive-compulsive-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/cyclothymia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dyspareunia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/paraphilias/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/gender-dysphoria/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/hypoactive-sexual-desire-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/bestiality/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/fetishism/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/pedophilia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/foot-fetishism/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/phobia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/panic-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/misophonia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/emotional-disorder/</loc>
   </url>
   
   <url>
@@ -42,7 +255,131 @@
   </url>
   
   <url>
+    <loc>http://messes.ml/mental/histrionic-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/depression/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/tic-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/trichotillomania/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dysthymia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/frotteurism/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/stockholm-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/sadism/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/premature-ejaculation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/circadian-rhythm-sleep-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/mental-retardation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/sleepwalking-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/echolalia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/hysteria/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/attention-deficit-hyperactivity-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/video-game-addiction/</loc>
+  </url>
+  
+  <url>
     <loc>http://messes.ml/mental/anxiety-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/substance-related-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/specific-developmental-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/specific-phobia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/hypochondriasis/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dementia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/epilepsy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/sleep-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/social-phobia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/neurodevelopmental-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/anorexia-nervosa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/bulimia-nervosa/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/neurosis/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/korsakoffs-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/kleptomania/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/schizoid-personality-disorder/</loc>
   </url>
   
   <url>
@@ -50,7 +387,79 @@
   </url>
   
   <url>
-    <loc>http://messes.ml/mental/adjustment-disorder/</loc>
+    <loc>http://messes.ml/mental/pyromania/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/autophagia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/grandiose-delusions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/narcissistic-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/self-injury/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/autism/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/benzodiazepine-withdrawal-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/morgellons-disease/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/retts-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/bibliomania/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dissociative-fugue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/dissociative-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/expressive-language-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/delirium/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/pathological-gambling/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/bipolar-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/hypomania/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/borderline-personality-disorder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/retrograde-amnesia/</loc>
   </url>
   
   <url>
@@ -58,7 +467,43 @@
   </url>
   
   <url>
+    <loc>http://messes.ml/mental/alcohol-withdrawal-syndrome/</loc>
+  </url>
+  
+  <url>
     <loc>http://messes.ml/mental/alcoholism-and-substance-abuse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/erotomania/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/vaginismus/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/alzheimers-disease/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/asperger-syndrome/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/delirium-tremens/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/exhibitionism/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/anterograde-amnesia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://messes.ml/mental/high-functioning-autism/</loc>
   </url>
   
 </urlset>
