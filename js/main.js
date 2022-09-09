@@ -30,13 +30,15 @@ $(document).ready(function(){
     $year = $('#timing_dashboard').data('year');
     $month = $('#timing_dashboard').data('month');
     $day = $('#timing_dashboard').data('day');
+    $hour = $('#timing_dashboard').data('hour');
+    $min = $('#timing_dashboard').data('min');
     $('#timing_dashboard').countUp({
         targetDate: {
             'day':      $day,
             'month':    $month,
             'year':     $year,
-            'hour':     0,
-            'min':      0,
+            'hour':     $hour,
+            'min':      $min,
             'sec':      0,
         },
         omitWeeks: true
